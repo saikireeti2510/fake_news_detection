@@ -1,0 +1,13 @@
+Prerequisites
+1. Python3
+2. Jupyter Notebook
+3. Sci-kit learn
+
+Install Sci-kit learn:
+pip install -U scikit-learn
+
+Install Jupyter notebook:
+pip install notebook
+
+Launch it with this command:
+jupyter notebook
